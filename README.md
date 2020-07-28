@@ -10,7 +10,7 @@ Classification of spoken language into English, Hindi or Mandarin - EE599 NLP pr
 1. Python 3.7  
 2. tensorflow 2.1  
 3. tensorflow-gpu 2.1  
-4. librosa
+4. librosa  
 To install the complete list of dependencies, run:  
 ```
 pip install -r requirements.txt
